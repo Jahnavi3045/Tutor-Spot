@@ -90,7 +90,6 @@ h1{
 .options{
 
   /* Rectangle 22 */
-  
   position: absolute;
   width: 418px;
   height: 436px;
@@ -98,7 +97,6 @@ h1{
   top: 454px;
   background: #FFFFFF;
 }
-
 
 
 #signup{
@@ -138,8 +136,7 @@ h1{
 
 hr{
  
-  /* Line 1 */
-
+  /* Line 1 **/
   /* position: absolute; */
   width: 315.89px;
   height: 0px;
@@ -159,4 +156,171 @@ hr{
   flex-wrap: nowrap;
   align-items: end;
   gap: 40px;
+}
+
+/* body2 */
+.body2{
+  background-color: rgba(255, 249, 219, 1);
+  height: 2192px;
+  width: 1440px;
+}
+
+.quote1{
+
+  /* "Building a Foundation for a Lifetime of Success" */
+  position: absolute;
+  width: 1301px;
+  height: 540px;
+  left: 70px;
+  top: 1172px;
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 150%;
+
+  /* or 180px */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+
+.body2 img{
+
+  /* download 7 */
+  position: absolute;
+  width: 702px;
+  height: 593px;
+  left: 53px;
+  top: 1937px;
+}
+
+
+h2{
+
+  /* About Us */
+  position: absolute;
+  width: 454px;
+  height: 109px;
+  left: 926px;
+  top: 2125px;
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 150%;
+
+  /* or 144px */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+  
+}
+
+
+.quote2{
+  position: absolute;
+  width: 1302px;
+  height: 812px;
+  left: 78px;
+  top: 2700px;
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: right;
+  color: #000000;
+}
+
+/* footer */
+.footer{
+  /* Frame 3 */
+
+position: absolute;
+width: 1440px;
+height: 210px;
+left: 0px;
+top: 3211px;
+
+background: #000000;
+
+}
+
+.footer img{
+
+  /* Group 1 */
+  position: absolute;
+  width: 315.88px;
+  height: 68.18px;
+  left: 562.13px;
+  top: -1px;
+  gap: 50px;
+  transform: rotate(0.11deg);
+}
+
+.footerlinks{
+
+/* Items */
+/* Auto layout */
+color: #FFFFFF;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 48px;
+position: absolute;
+width: 294px;
+height: 30px;
+right: 686px;
+top: 105px;
+
+/* Items */
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 48px;
+position: absolute;
+width: 178px;
+height: 30px;
+right: 460px;
+top: 105px;
+}
+
+.footer hr{
+
+/* Line 7 */
+position: absolute;
+width: 527px;
+height: 0px;
+left: 1px;
+right: 100px;
+top: 20px;
+border: 1px solid green;
+}
+
+.footer p{
+
+/* 2024 Copyright | All rights reserved */
+position: absolute;
+width: 371px;
+height: 21px;
+left: 0px;
+top: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+
+/* or 30px */
+display: flex;
+align-items: center;
+color: green;
 }
