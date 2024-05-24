@@ -1,0 +1,266 @@
+header{
+    /* Rectangle 3 */
+    position: absolute;
+    width: 1440px;
+    height: 144px;
+    left: 0px;
+    top: 0px;
+    background: rgba(252, 209, 97, 0.6);
+}
+.logo{
+    /* b9f4abfe-bcfa-4581-9b37-0395d72f2acf 2 */
+    position: absolute;
+    width: 126px;
+    height: 131px;
+    left: 38px;
+    top: 6px;
+    background: url(b9f4abfe-bcfa-4581-9b37-0395d72f2acf.jpg);
+    border-radius: 75px;
+}
+.header-links{
+        /* Items */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+
+    position: absolute;
+    width: 344px;
+    height: 30px;
+    right: 95px;
+    top: 57px;
+}
+
+
+
+
+.box{
+    /* Rectangle 23 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 846px;
+    height: 488px;
+    left: 297px;
+    top: 199px;
+    background: #FFFBFB;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.username{
+    /* Rectangle 24 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 42px;
+    left: 240px;
+    top: 85px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+.password{
+    /* Rectangle 25 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 42px;
+    left: 240px;
+    top: 145px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.pass-text{
+    /* Forgot your Password? */
+    position: absolute;
+    width: 260px;
+    height: 43px;
+    left: 240px;
+    top: 165px;
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 36px */
+    display: flex;
+    align-items: center;
+    color: rgba(25, 21, 21, 0.44);
+}
+
+.login{
+    /* Rectangle 27 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 45px;
+    left: 240px;
+    top: 235px;
+    background: #CD1414;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    font-size: 27px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.or{
+    /* OR */
+    position: absolute;
+    width: 260px;
+    height: 43px;
+    left: 400px;
+    top: 265px;
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%;
+    /* or 60px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #191515;
+}
+.signup-fb{
+    /* Rectangle 26 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 45px;
+    left: 240px;
+    top: 345px;
+    background: #102078;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    font-size: 27px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-gg{
+    /* Rectangle 26 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 45px;
+    left: 240px;
+    top: 400px;
+    background: #102078;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    font-size: 27px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+footer{
+    /* Rectangle 29 */
+    position: absolute;
+    width: 1440px;
+    height: 208px;
+    left: 0px;
+    top: 826px;
+    background: #000000;
+}
+.medias{
+    /* Group 1 */
+    position: absolute;
+    width: 315.88px;
+    height: 68.18px;
+    left: 300px;
+    top: 130px;
+    transform: rotate(0.11deg);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.square{
+    position: absolute;
+    left: 380px;
+    top: 500px;
+}
+.image{
+    /* Group */
+    position: absolute;
+    left: 10%;
+    right: 48.07%;
+    top: 500px;
+    bottom: 11.4%;
+    transform: rotate(0.11deg);
+    width: 40px;
+    height: 40px;
+}
+.list{
+    /* Group 64 */
+    position: absolute;
+    width: 506px;
+    height: 31px;
+    left: 474px;
+    top: 1136px;
+}
+.list_item{
+    /* Services */
+    position: absolute;
+    width: 83px;
+    height: 30px;
+    left: 671px;
+    top: 1136px;
+    /* Body text
+    Text for body copy
+    */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    display: flex;
+    align-items: center;
+    color: #2421bd;
+}
+
+.copyright{
+    /* 2024 Copyright | All rights reserved */
+
+position: absolute;
+width: 371px;
+height: 21px;
+left: 551px;
+top: 1203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+.underline{
+    /* Line 7 */
+
+position: absolute;
+width: 527px;
+height: 0px;
+left: 454px;
+top: 1180px;
+
+border: 1px solid #FFFFFF;
+
+}
