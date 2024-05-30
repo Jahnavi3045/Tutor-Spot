@@ -1,0 +1,271 @@
+/* header */
+.header{ 
+
+  /* Group 12 */
+  position: absolute;
+  width: 100%;
+  height: 163px;
+  left: 0px;
+  top: 0px;
+  background-color: rgba(251, 188, 5, 1);
+}
+
+
+.profile{
+
+  /* Group */
+  position: absolute;
+  width: 131px;
+  height: 131px;
+  left: 85.76%;
+  right: 5.14%;
+  top: 1.56%;
+  bottom: 85.64%;
+  size: 50%;
+  background: rgba(251, 188, 5, 1);
+}
+
+/* body */
+h1{
+
+  /* Student Requests */
+    position: absolute;
+    width: 605px;
+    height: 118px;
+    left: 500px;
+    top: 150px;
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 30px;
+  
+    /* or 47% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+
+.body{
+  height: 550px;
+  width: 100%;
+  background-color: #f5f5f5;
+
+  /* Group 59 */
+  position: absolute;
+  width: 1139.12px;
+  height: 400px;
+  left: 151px;
+  top: 370px;
+}
+
+.box1{
+  position: absolute;
+  width: 1139.12px;
+  height: 100px;
+  background: rgba(217, 217, 217, 1);
+}
+
+.profile-logo{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  top: 5px;
+}
+
+.box1 p{
+  position: absolute;
+  height: 90px;
+  width: 30%;
+  top: 5px;
+  left: 100px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 20px;
+}
+
+.box2{
+  position: absolute;
+  width: 1139.12px;
+  height: 100px;
+  top: 150px;
+  background: rgba(217, 217, 217, 1);
+}
+
+.profile-logo{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  top: 5px;
+}
+
+.box2 p{
+  position: absolute;
+  height: 90px;
+  width: 30%;
+  top: 5px;
+  left: 100px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 20px;
+}
+
+.box3{
+
+  /* Group 57 */
+  position: absolute;
+  width: 1139.12px;
+  height: 100px;
+  top: 300px;
+  background: rgba(217, 217, 217, 1);
+}
+
+.profile-logo{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  top: 5px;
+}
+
+.box3 p{
+  position: absolute;
+  height: 90px;
+  width: 30%;
+  top: 5px;
+  left: 100px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 20px;
+}
+
+.box4{
+  position: absolute;
+  width: 1139.12px;
+  height: 100px;
+  top: 450px;
+  background: rgba(217, 217, 217, 1);
+}
+
+.profile-logo{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  top: 5px;
+}
+
+.box4 p{
+  position: absolute;
+  height: 90px;
+  width: 30%;
+  top: 5px;
+  left: 100px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 20px;
+}
+
+/* footer */
+.footer{
+
+  /* Frame 3 */
+  position: absolute;
+  width: 100%;
+  height: 210px;
+  /* left: 0px; */
+  top: 900px;
+  background: #000000;
+}
+
+.i1{
+
+  /* Group 1 */
+  position: absolute;
+  width: 150px;
+  height: 50.18px;
+  left: 32%;
+  right: 42.28%;
+  top: 11.05%;
+  bottom: 67.81%;
+  transform: rotate(0.11deg);
+}
+
+.i2{
+  position: absolute;
+  width: 200px;
+  height: 50.18px;
+  left: 42.84%;
+  right: 42.28%;
+  top: 11.05%;
+  bottom: 67.81%;
+  transform: rotate(0.11deg);
+}
+
+.i3{
+
+  /* Vector */
+  position: absolute;
+  width: 200px;
+  height: 50.18px;
+  left: 55.84%;
+  right: 42.28%;
+  top: 11.05%;
+  bottom: 67.81%;
+  transform: rotate(0.11deg);
+}
+
+.footerlinks{
+
+  /* Items */
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px;
+  gap: 48px;
+  position: absolute;
+  width: 294px;
+  height: 30px;
+  right: 550px;
+  top: 105px;
+  color: white;
+}
+
+.footer hr{
+
+  /* Line 7 */
+  position: absolute;
+  width: 527px;
+  height: 0px;
+  left: 500px;
+  top: 149px;
+  border: 1px solid #FFFFFF;
+}
+
+.footer p{
+
+  /* 2024 Copyright | All rights reserved */
+  position: absolute;
+  width: 371px;
+  height: 21px;
+  left: 600px;
+  top: 150px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
