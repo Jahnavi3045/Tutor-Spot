@@ -1,0 +1,205 @@
+.header {
+
+    /* Group 12 */
+    position: absolute;
+    width: 100%;
+    height: 163px;
+    left: 0px;
+    top: 0px;
+    background-color: rgba(251, 188, 5, 1);
+}
+.profile {
+
+    /* Group */
+    position: absolute;
+    width: 131px;
+    height: 131px;
+    left: 85.76%;
+    right: 5.14%;
+    top: 1.56%;
+    bottom: 85.64%;
+    size: 50%;
+    background: rgba(251, 188, 5, 1);
+}
+
+.body {
+    background-color: #FFF9DB;
+    height: 900px;
+    /* background: url('../images/tutor-std.png');
+    width: 100%;
+    opacity: 0.5;
+    z-index: -1; */
+}
+
+/* .bg-image{
+    download 7
+
+position: absolute;
+width: 830px;
+height: 448px;
+left: 305px;
+top: 362px;
+
+background: url('../images/tutor-std.png');
+} */
+
+#text1{
+    /* CONGRATULATIONS */
+
+position: absolute;
+width: 557px;
+height: 100px;
+left: 479px;
+top: 229px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 100px;
+/* identical to box height, or 104% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+/* z-index: 5; */
+
+
+}
+
+#text2{
+    /* Your Tutor is on the way for U to STEP UP!!! */
+
+position: absolute;
+width: 1101px;
+height: 146px;
+left: 230px;
+top: 446px;
+/* z-index: 5; */
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 100px;
+/* or 104% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.image{
+    /* tick */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 750px;
+top: 700px;
+
+
+border-radius: 33px;
+
+}
+
+
+/* footer */
+.footer {
+
+    /* Frame 3 */
+    position: absolute;
+    width: 100%;
+    height: 210px;
+    /* left: 0px; */
+    top: 880px;
+    background: #000000;
+}
+
+.i1 {
+
+    /* Group 1 */
+    position: absolute;
+    width: px;
+    height: 50.18px;
+    left: 32%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.i2 {
+    position: absolute;
+    width: 200px;
+    height: 50.18px;
+    left: 42.84%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.i3 {
+
+    /* Vector */
+    position: absolute;
+    width: 200px;
+    height: 50.18px;
+    left: 55.84%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.footerlinks {
+
+    /* Items */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+    position: absolute;
+    width: 294px;
+    height: 30px;
+    right: 550px;
+    top: 105px;
+    color: white;
+}
+
+.footer hr {
+
+    /* Line 7 */
+    position: absolute;
+    width: 527px;
+    height: 0px;
+    left: 500px;
+    top: 149px;
+    border: 1px solid #FFFFFF;
+}
+
+.footer p {
+
+    /* 2024 Copyright | All rights reserved */
+    position: absolute;
+    width: 371px;
+    height: 21px;
+    left: 600px;
+    top: 150px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
