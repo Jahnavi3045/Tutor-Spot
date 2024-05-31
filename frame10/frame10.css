@@ -1,0 +1,366 @@
+.header {
+
+    /* Group 12 */
+    position: absolute;
+    width: 100%;
+    height: 163px;
+    left: 0px;
+    top: 0px;
+    background-color: rgba(251, 188, 5, 1);
+}
+
+.profile {
+
+    /* Group */
+    position: absolute;
+    width: 131px;
+    height: 131px;
+    left: 85.76%;
+    right: 5.14%;
+    top: 1.56%;
+    bottom: 85.64%;
+    size: 50%;
+    background: rgba(251, 188, 5, 1);
+}
+
+
+.body {
+    background-color: #FFF9DB;
+    height: 930px;
+}
+
+#text1 {
+
+    position: absolute;
+    width: 347px;
+    height: 26px;
+    left: 237px;
+    top: 240.02px;
+
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 20px;
+    /* or 40% */
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+#date {
+    /* Rectangle 19 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 325px;
+    height: 52px;
+    left: 370px;
+    top: 274px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 25px;
+
+}
+
+#FromDate {
+    /* Rectangle 20 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 135px;
+    height: 56px;
+    left: 572px;
+    top: 400px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+#ToText {
+    position: absolute;
+    width: 375px;
+    height: 46px;
+    left: 730px;
+    top: 350px;
+
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 20px;
+    /* or 40% */
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+#ToDate {
+    /* Rectangle 21 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 133px;
+    height: 56px;
+    left: 810px;
+    top: 400px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+#text2 {
+    /* Hiring Duration: */
+
+    position: absolute;
+    width: 375px;
+    height: 46px;
+    left: 238px;
+    top: 345px;
+
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 20px;
+    /* or 40% */
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+
+}
+
+#text3 {
+    /* Payment Mode */
+
+    position: absolute;
+    width: 347px;
+    height: 26px;
+    left: 242px;
+    top: 493px;
+
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 20px;
+    /* or 40% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+
+/* .modes{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+} */
+#pm1 {
+    /* image 2 */
+
+    position: absolute;
+
+    left: 262px;
+    top: 650px;
+
+    background: url(image.png);
+    width: 85px;
+    height: 41px;
+}
+
+#pm2 {
+    /* image 1 */
+
+    position: absolute;
+    width: 55px;
+    height: 41px;
+    left: 461px;
+    top: 650px;
+
+    background: url(image.png);
+
+}
+
+#pm3 {
+    /* phonepe logo */
+
+    position: absolute;
+    width: 55px;
+    height: 41px;
+    left: 630px;
+    top: 650px;
+
+
+
+}
+
+#pm4 {
+    /* Group 65 */
+
+    position: absolute;
+    width: 55px;
+    height: 41px;
+    left: 795px;
+    top: 650px;
+
+
+}
+
+#pm5 {
+    /* download 5 */
+
+    position: absolute;
+    width: 55px;
+    height: 41px;
+    left: 940px;
+    top: 650px;
+
+
+}
+
+
+.button {
+    /* Group 51 */
+
+    background: #FBBC05;
+    border-radius: 30px;
+
+    /* Confirm */
+
+    position: absolute;
+    width: 109.76px;
+    height: 38.29px;
+    left: 744.11px;
+    top: 790px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 20px;
+    /* or 83% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #000000;
+    padding: 3px;
+
+
+
+}
+
+
+
+/* footer */
+.footer {
+
+    /* Frame 3 */
+    position: absolute;
+    width: 100%;
+    height: 210px;
+    /* left: 0px; */
+    top: 930px;
+    background: #000000;
+}
+
+.i1 {
+
+    /* Group 1 */
+    position: absolute;
+    width: 100px;
+    height: 50.18px;
+    left: 32%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.i2 {
+    position: absolute;
+    width: 200px;
+    height: 50.18px;
+    left: 42.84%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.i3 {
+
+    /* Vector */
+    position: absolute;
+    width: 200px;
+    height: 50.18px;
+    left: 55.84%;
+    right: 42.28%;
+    top: 11.05%;
+    bottom: 67.81%;
+    transform: rotate(0.11deg);
+}
+
+.footerlinks {
+
+    /* Items */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+    position: absolute;
+    width: 294px;
+    height: 30px;
+    right: 550px;
+    top: 105px;
+    color: white;
+}
+
+.footer hr {
+
+    /* Line 7 */
+    position: absolute;
+    width: 527px;
+    height: 0px;
+    left: 500px;
+    top: 149px;
+    border: 1px solid #FFFFFF;
+}
+
+.footer p {
+
+    /* 2024 Copyright | All rights reserved */
+    position: absolute;
+    width: 371px;
+    height: 21px;
+    left: 600px;
+    top: 150px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
