@@ -13,11 +13,11 @@
 
     /* Group */
     position: absolute;
-    width: 131px;
-    height: 131px;
+    width: 100px;
+    height: 100px;
     left: 85.76%;
     right: 5.14%;
-    top: 1.56%;
+    top: 16%;
     bottom: 85.64%;
     size: 50%;
     background: rgba(251, 188, 5, 1);
@@ -39,8 +39,8 @@
 
     font-family: 'Inria Serif';
     font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 200;
+    font-size: 40px;
     line-height: 20px;
     /* or 40% */
     display: flex;
@@ -91,8 +91,8 @@
 
     font-family: 'Inria Serif';
     font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 300;
+    font-size: 40px;
     line-height: 20px;
     /* or 40% */
     display: flex;
@@ -128,8 +128,8 @@
 
     font-family: 'Inria Serif';
     font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 300;
+    font-size: 40px;
     line-height: 20px;
     /* or 40% */
     display: flex;
@@ -151,8 +151,8 @@
 
     font-family: 'Inria Serif';
     font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 300;
+    font-size: 40px;
     line-height: 20px;
     /* or 40% */
     display: flex;
