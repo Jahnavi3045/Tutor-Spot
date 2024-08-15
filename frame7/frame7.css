@@ -15,10 +15,10 @@
   /* Vector */
   position: absolute;
   width: 90px;
-  height: 112px;
+  height: 90px;
   left: 6.39%;
   right: 89.51%;
-  top: 10.42%;
+  top: 16%;
   bottom: 87.5%;
 }
 
@@ -32,8 +32,8 @@
   top: 0%;
   font-family: 'Inria Serif';
   font-style: normal;
-  font-weight: 400;
-  font-size: 64px;
+  font-weight: 300;
+  font-size: 50px;
   line-height: 20px;
 
   /* or 31% */
@@ -46,11 +46,11 @@
 
   /* Group */
   position: absolute;
-  width: 131px;
-  height: 131px;
+  width: 100px;
+  height: 100px;
   left: 85.76%;
   right: 5.14%;
-  top: 1.56%;
+  top: 16%;
   bottom: 85.64%;
   size: 50%;
   background: rgba(251, 188, 5, 1);
@@ -92,8 +92,8 @@
   left: 100px;
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 35px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
 }
 
@@ -101,10 +101,10 @@
 
   /* Group 28 */
   position: absolute;
-  width: 90px;
-  height: 90px;
+  width: 60px;
+  height: 60px;
   left: 710px;
-  top: 5px;
+  top: 20px;
   background: rgba(251, 188, 5, 1);
   display: flex;
 }
@@ -132,8 +132,8 @@
   left: 100px;
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 35px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
 }
 
@@ -162,8 +162,8 @@
   left: 100px;
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 35px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
 }
 

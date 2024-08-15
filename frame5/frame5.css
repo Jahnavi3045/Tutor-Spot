@@ -53,8 +53,8 @@
   top: 203px;
   font-family: 'Inria Serif';
   font-style: normal;
-  font-weight: 400;
-  font-size: 64px;
+  font-weight: 300;
+  font-size: 40px;
   line-height: 30px;
 
   /* or 47% */
@@ -73,8 +73,8 @@
   /* Search by pincode */
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
 
   /* or 42% */
@@ -99,8 +99,8 @@
   /* SEARCH */
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
 
   /* or 42% */
@@ -122,8 +122,8 @@
   /* Search by subject */
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
+  font-weight: 200px;
+  font-size: 30px;
   line-height: 20px;
 
   /* or 42% */
@@ -139,7 +139,7 @@
   position: absolute;
   width: 327px;
   height: 68px;
-  left: 948px;
+  left: 960px;
   top: 614px;
   background: rgba(252, 209, 97, 0.83);
   border: 1px solid #000000;
@@ -148,8 +148,8 @@
   /* SEARCH */
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
+  font-weight: 200px;
+  font-size: 30px;
   line-height: 20px;
 
   /* or 42% */

@@ -61,8 +61,8 @@
   align-items: center;
   font-family: 'Inknut Antiqua';
   font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
+  font-weight: 200;
+  font-size: 30px;
   line-height: 20px;
   color: #000000;
 }
@@ -86,10 +86,10 @@
   left: 756px;
   top: 726px; */
   position: absolute;
-  width: 90px;
-  height: 90px;
+  width: 60px;
+  height: 60px;
   left: 280px;
-  top: 720px;
+  top: 740px;
   background: rgba(251, 188, 5, 1);
   display: flex;
 }
