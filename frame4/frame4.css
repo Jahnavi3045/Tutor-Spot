@@ -9,6 +9,42 @@ top: 0px;
 
 background: url(../images/navbar.png);
 }
+header{
+    /* Rectangle 3 */
+    position: absolute;
+    width: 1440px;
+    height: 144px;
+    left: 0px;
+    top: 0px;
+    background: rgba(252, 209, 97, 0.6);
+}
+.logo{
+    /* b9f4abfe-bcfa-4581-9b37-0395d72f2acf 2 */
+    position: absolute;
+    width: 126px;
+    height: 131px;
+    left: 38px;
+    top: 6px;
+    background: url(b9f4abfe-bcfa-4581-9b37-0395d72f2acf.jpg);
+    border-radius: 75px;
+}
+.header-links{
+        /* Items */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+
+    position: absolute;
+    width: 344px;
+    height: 30px;
+    right: 95px;
+    top: 57px;
+}
 
 body{
     background-color: #FFF9DB;
